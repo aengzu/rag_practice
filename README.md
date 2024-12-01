@@ -17,7 +17,7 @@ Special thanks to the Ligency Team and Ed Donner! 👍🏻
    ```
 
 3. **Create a `.env` file in the root directory**  
-   - Add your `OPENAI_` credentials.
+   - Add your `OPENAI_API_KEY` credentials.
 
 4. **Open `jupyter lab`**
    - `jupyter lab`
