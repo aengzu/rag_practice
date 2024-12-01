@@ -22,6 +22,8 @@ Special thanks to the Ligency Team and Ed Donner! 👍🏻
 4. **Open `jupyter lab`**
    - `jupyter lab`
 
+---
+
 ### Explanation in Korean
 - [velog 링크](https://velog.io/@aengzu/AI-%EA%B0%80%EB%B2%BC%EC%9A%B4-RAG-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-OpenAI-%EA%B8%B0%EB%B0%98)
 
